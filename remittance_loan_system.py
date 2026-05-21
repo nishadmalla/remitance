@@ -627,5 +627,5 @@ print(f"""
   ✓  Saved in: {OUTPUT_DIR}
 """)
 print("═"*60)
-print("  Done. Ready for your bank internship presentation!")
+
 print("═"*60 + "\n")
